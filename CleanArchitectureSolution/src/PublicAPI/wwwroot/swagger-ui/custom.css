@@ -1,0 +1,12 @@
+﻿.swagger-ui img {
+    content: url("https://raw.githubusercontent.com/arbems/Clean-Architecture-Solution/main/.github/arbems.jpg");
+    height: 70px;
+}
+.swagger-ui .topbar {
+    background-color: #FFFFFF;
+    padding: 10px 0;
+    color: #000000;
+}
+    .swagger-ui .topbar .download-url-wrapper .select-label {
+        color: #000000;
+    }
